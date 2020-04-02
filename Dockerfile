@@ -1,4 +1,4 @@
-ROM ubuntu:18.04
+FROM pwayer/hpvsop-base-ssh
 
 MAINTAINER Richard Young
 
