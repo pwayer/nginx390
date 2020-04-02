@@ -1,4 +1,4 @@
-FROM pwayer/hpvsop-base-ssh
+FROM pwayer/hpvsop-base-ssh:1.2.0-release-86a8e01
 
 MAINTAINER Richard Young
 
